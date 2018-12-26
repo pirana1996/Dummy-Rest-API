@@ -1,38 +1,38 @@
 {
 	"certificates": [{
 			"id": 1,
-			"issuer_name": "Alex",
-			"policy_name": "XYZ",
-			"start_date": "30/11/2016",
-			"end_date": "29/11/2017"
+			"issuerName": "Alex",
+			"policyName": "XYZ",
+			"startDate": "30/11/2016",
+			"endDate": "29/11/2017"
 		},
 		{
 			"id": 2,
-			"issuer_name": "Bob",
-			"policy_name": "ZYX",
-			"start_date": "15/09/2016",
-			"end_date": "12/12/2017"
+			"issuerName": "Bob",
+			"policyName": "ZYX",
+			"startDate": "15/09/2016",
+			"endDate": "12/12/2017"
 		},
 		{
 			"id": 3,
-			"issuer_name": "Charli",
-			"policy_name": "Policy AD HOC",
-			"start_date": "01/05/2016",
-			"end_date": "12/12/2017"
+			"issuerName": "Charli",
+			"policyName": "Policy AD HOC",
+			"startDate": "01/05/2016",
+			"endDate": "12/12/2017"
 		},
 		{
 			"id": 4,
-			"issuer_name": "Zaev",
-			"policy_name": "Pol. LOT 12",
-			"start_date": "15/09/2016",
-			"end_date": "12/12/2017"
+			"issuerName": "Zaev",
+			"policyName": "Pol. LOT 12",
+			"startDate": "15/09/2016",
+			"endDate": "12/12/2017"
 		},
 		{
 			"id": 5,
-			"issuer_name": "George",
-			"policy_name": "POL001",
-			"start_date": "15/09/2016",
-			"end_date": "12/12/2017"
+			"issuerName": "George",
+			"policyName": "POL001",
+			"startDate": "15/09/2016",
+			"endDate": "12/12/2017"
 		}
 	]
 }
