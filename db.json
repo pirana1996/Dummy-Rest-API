@@ -1,7 +1,7 @@
 {
 	"certificates": [{
 			"id": 1,
-			"issuerName": "Alex",
+			"issuerName": "Alice",
 			"policyName": "XYZ",
 			"startDate": "30/11/2016",
 			"endDate": "29/11/2017"
@@ -22,14 +22,14 @@
 		},
 		{
 			"id": 4,
-			"issuerName": "Zaev",
+			"issuerName": "David",
 			"policyName": "Pol. LOT 12",
 			"startDate": "15/09/2016",
 			"endDate": "12/12/2017"
 		},
 		{
 			"id": 5,
-			"issuerName": "George",
+			"issuerName": "Elizabet",
 			"policyName": "POL001",
 			"startDate": "15/09/2016",
 			"endDate": "12/12/2017"
